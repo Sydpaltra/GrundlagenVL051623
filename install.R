@@ -1,3 +1,4 @@
+install.packages("readr")
 install.packages("tidyverse")
 install.packages("scales")
 install.packages("lubridate")
