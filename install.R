@@ -1,0 +1,4 @@
+install.packages("tidyverse")
+install.packages("scales")
+install.packages("lubridate")
+install.packages("ggokabeito")
